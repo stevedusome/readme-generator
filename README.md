@@ -7,7 +7,9 @@ generates a good looking readme from inputs in node
 * [Installation](#installation) 
 * [Usage](#usage)  
 * [Testing](#test) 
-* [Questions](#questions) 
+* [Questions](#questions)
+* [Video Link](#video)
+ 
 ## Installation
 What are the steps required to install your project?
 npm install 
