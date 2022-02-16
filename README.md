@@ -8,7 +8,7 @@ generates a good looking readme from inputs in node
 * [Usage](#usage)  
 * [Testing](#test) 
 * [Questions](#questions)
-* [Video Link](#video)
+* [Video Link](#video-link)
  
 ## Installation
 What are the steps required to install your project?
